@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='PyRankinity',
-      version='1.0',
+      version='0.1',
       description='Python Distribution Utilities',
       author='UpCounsel',
       author_email='brad@upcounsel.com',
