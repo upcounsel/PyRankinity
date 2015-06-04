@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(name='PyRankinity',
       version='0.1',
-      description='Python Distribution Utilities',
+      description='Rankinity API Wrapper - See http://my.rankinity.com/api.en',
       author='UpCounsel',
       author_email='brad@upcounsel.com',
       url='https://www.github.com/upcounsel/pyrankinity',
